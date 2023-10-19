@@ -1,2 +1,2 @@
 def return_not_none():
-    return None
+    return True;#originally None so the test fails

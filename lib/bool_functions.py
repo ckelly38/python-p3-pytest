@@ -1,2 +1,2 @@
 def return_true():
-    return False
+    return True;#was False so the assertion would fail
